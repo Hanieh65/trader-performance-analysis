@@ -1,0 +1,1001 @@
+trader_id,name,city,experience_years,account_balance
+1,Trader_1,Singapore,12,456619.86
+2,Trader_2,Dubai,12,109277.78
+3,Trader_3,Frankfurt,4,313368.46
+4,Trader_4,Dubai,4,317622.31
+5,Trader_5,Dubai,5,367890.95
+6,Trader_6,New York,8,70126.0
+7,Trader_7,Frankfurt,5,359333.36
+8,Trader_8,Frankfurt,8,454971.1
+9,Trader_9,Frankfurt,10,93943.14
+10,Trader_10,Dubai,1,122583.95
+11,Trader_11,Singapore,12,485840.57
+12,Trader_12,Frankfurt,10,94583.59
+13,Trader_13,Dubai,9,427920.62
+14,Trader_14,New York,6,248677.54
+15,Trader_15,Singapore,3,127379.38
+16,Trader_16,New York,13,436021.2
+17,Trader_17,Singapore,14,225426.1
+18,Trader_18,Dubai,8,259834.59
+19,Trader_19,London,9,182820.52
+20,Trader_20,Singapore,6,298510.67
+21,Trader_21,New York,11,85944.32
+22,Trader_22,Dubai,7,198585.36
+23,Trader_23,Singapore,1,484859.1
+24,Trader_24,London,14,132776.05
+25,Trader_25,London,5,330084.65
+26,Trader_26,Frankfurt,5,165969.08
+27,Trader_27,Frankfurt,10,387869.2
+28,Trader_28,New York,14,69782.46
+29,Trader_29,Singapore,4,485061.42
+30,Trader_30,Singapore,6,229625.82
+31,Trader_31,Frankfurt,7,121844.98
+32,Trader_32,Singapore,9,41380.89
+33,Trader_33,Singapore,1,89030.16
+34,Trader_34,London,6,262288.1
+35,Trader_35,Frankfurt,7,171816.57
+36,Trader_36,Dubai,3,415297.27
+37,Trader_37,Frankfurt,8,218289.32
+38,Trader_38,Dubai,5,128113.56
+39,Trader_39,London,9,310486.77
+40,Trader_40,New York,5,354854.72
+41,Trader_41,Singapore,9,87685.74
+42,Trader_42,London,10,87971.51
+43,Trader_43,Singapore,4,23152.36
+44,Trader_44,New York,9,369519.0
+45,Trader_45,New York,5,333583.24
+46,Trader_46,London,10,239942.28
+47,Trader_47,New York,9,422864.37
+48,Trader_48,Dubai,3,403806.73
+49,Trader_49,New York,4,294750.41
+50,Trader_50,Singapore,9,434794.28
+51,Trader_51,Singapore,10,106891.4
+52,Trader_52,Singapore,11,60400.21
+53,Trader_53,Singapore,6,138526.06
+54,Trader_54,Dubai,2,33257.99
+55,Trader_55,Frankfurt,7,267928.92
+56,Trader_56,London,2,468619.82
+57,Trader_57,Singapore,11,24475.05
+58,Trader_58,New York,2,65444.41
+59,Trader_59,Singapore,11,228838.52
+60,Trader_60,New York,1,467268.13
+61,Trader_61,New York,11,161497.27
+62,Trader_62,Singapore,11,256081.23
+63,Trader_63,Dubai,12,25578.57
+64,Trader_64,New York,11,78429.88
+65,Trader_65,New York,3,493381.91
+66,Trader_66,Singapore,6,482733.75
+67,Trader_67,New York,8,7445.29
+68,Trader_68,New York,9,476146.83
+69,Trader_69,Singapore,7,321364.37
+70,Trader_70,Singapore,4,434619.56
+71,Trader_71,London,6,230096.23
+72,Trader_72,Dubai,5,260220.03
+73,Trader_73,Dubai,8,246979.06
+74,Trader_74,New York,1,335097.81
+75,Trader_75,Dubai,1,74127.37
+76,Trader_76,New York,13,19836.93
+77,Trader_77,London,11,157425.32
+78,Trader_78,Singapore,6,353816.98
+79,Trader_79,Singapore,10,104917.46
+80,Trader_80,Singapore,12,338349.05
+81,Trader_81,Dubai,2,485106.46
+82,Trader_82,London,5,51480.85
+83,Trader_83,Dubai,1,337938.05
+84,Trader_84,Dubai,7,224656.36
+85,Trader_85,London,1,434730.42
+86,Trader_86,London,4,92689.15
+87,Trader_87,London,9,347849.85
+88,Trader_88,London,1,419867.07
+89,Trader_89,Singapore,4,472584.04
+90,Trader_90,Frankfurt,6,343207.77
+91,Trader_91,Frankfurt,6,251101.51
+92,Trader_92,London,12,310834.38
+93,Trader_93,Frankfurt,13,435107.97
+94,Trader_94,Frankfurt,8,287451.82
+95,Trader_95,London,1,20041.59
+96,Trader_96,Frankfurt,7,465819.6
+97,Trader_97,Dubai,1,346315.74
+98,Trader_98,New York,13,339874.13
+99,Trader_99,New York,14,111759.2
+100,Trader_100,London,7,331148.31
+101,Trader_101,Singapore,3,199962.88
+102,Trader_102,London,11,327360.32
+103,Trader_103,Singapore,8,57763.55
+104,Trader_104,New York,3,330633.43
+105,Trader_105,London,14,499709.79
+106,Trader_106,Dubai,14,28864.96
+107,Trader_107,Frankfurt,13,488701.22
+108,Trader_108,Singapore,1,206419.44
+109,Trader_109,Frankfurt,13,436022.96
+110,Trader_110,Frankfurt,13,392280.81
+111,Trader_111,London,14,285673.05
+112,Trader_112,Frankfurt,8,370532.36
+113,Trader_113,Dubai,3,439865.2
+114,Trader_114,Frankfurt,2,205049.46
+115,Trader_115,London,1,166881.41
+116,Trader_116,Dubai,14,335458.73
+117,Trader_117,New York,3,404883.74
+118,Trader_118,Frankfurt,2,382331.14
+119,Trader_119,London,2,399917.76
+120,Trader_120,New York,6,220613.74
+121,Trader_121,New York,12,409827.94
+122,Trader_122,Singapore,1,64503.48
+123,Trader_123,Dubai,2,274522.1
+124,Trader_124,Frankfurt,14,7850.54
+125,Trader_125,London,6,165669.99
+126,Trader_126,Singapore,3,186398.46
+127,Trader_127,Dubai,4,201105.48
+128,Trader_128,Singapore,1,349256.27
+129,Trader_129,Dubai,8,197336.26
+130,Trader_130,Dubai,13,227103.34
+131,Trader_131,Frankfurt,7,122584.34
+132,Trader_132,Dubai,7,189759.64
+133,Trader_133,Singapore,3,117498.47
+134,Trader_134,Dubai,10,41231.98
+135,Trader_135,Frankfurt,10,303707.05
+136,Trader_136,Frankfurt,3,335765.34
+137,Trader_137,Singapore,14,311647.72
+138,Trader_138,New York,2,234429.55
+139,Trader_139,New York,12,192993.96
+140,Trader_140,Dubai,1,432350.16
+141,Trader_141,London,7,261945.48
+142,Trader_142,Dubai,7,242195.03
+143,Trader_143,Singapore,12,17692.82
+144,Trader_144,Singapore,2,173917.67
+145,Trader_145,Singapore,7,193196.83
+146,Trader_146,Singapore,13,202417.28
+147,Trader_147,Singapore,8,292185.32
+148,Trader_148,Frankfurt,1,269133.26
+149,Trader_149,New York,9,305913.02
+150,Trader_150,Singapore,7,383617.21
+151,Trader_151,London,3,407427.94
+152,Trader_152,London,8,360470.92
+153,Trader_153,London,7,477984.23
+154,Trader_154,London,11,14025.13
+155,Trader_155,Frankfurt,13,101910.1
+156,Trader_156,London,8,8743.62
+157,Trader_157,Singapore,6,325499.98
+158,Trader_158,Dubai,9,449525.12
+159,Trader_159,London,5,125523.74
+160,Trader_160,Frankfurt,3,463882.1
+161,Trader_161,Frankfurt,3,34832.36
+162,Trader_162,London,1,467545.83
+163,Trader_163,Dubai,12,179053.23
+164,Trader_164,London,8,55203.31
+165,Trader_165,Frankfurt,2,245506.52
+166,Trader_166,New York,3,132104.4
+167,Trader_167,Singapore,8,146012.09
+168,Trader_168,Frankfurt,14,157108.53
+169,Trader_169,London,8,402497.82
+170,Trader_170,Singapore,14,271884.83
+171,Trader_171,London,11,159097.31
+172,Trader_172,London,4,307115.22
+173,Trader_173,New York,4,359494.58
+174,Trader_174,Singapore,5,139948.88
+175,Trader_175,Singapore,6,209706.81
+176,Trader_176,New York,5,65333.62
+177,Trader_177,Frankfurt,14,94668.93
+178,Trader_178,London,7,342153.34
+179,Trader_179,Dubai,2,94811.98
+180,Trader_180,London,7,264955.87
+181,Trader_181,London,10,355977.9
+182,Trader_182,Frankfurt,7,57904.08
+183,Trader_183,London,1,285819.55
+184,Trader_184,New York,7,131998.58
+185,Trader_185,New York,5,481648.8
+186,Trader_186,Singapore,3,244355.1
+187,Trader_187,Dubai,13,403966.31
+188,Trader_188,London,3,277362.14
+189,Trader_189,London,4,26489.2
+190,Trader_190,Frankfurt,13,318409.93
+191,Trader_191,New York,12,475944.65
+192,Trader_192,Dubai,2,302797.85
+193,Trader_193,Singapore,2,410498.49
+194,Trader_194,New York,1,442682.2
+195,Trader_195,Singapore,5,117899.49
+196,Trader_196,Frankfurt,4,109962.2
+197,Trader_197,Frankfurt,11,307435.59
+198,Trader_198,London,10,208459.09
+199,Trader_199,Dubai,2,420731.34
+200,Trader_200,Singapore,3,450511.45
+201,Trader_201,New York,7,179943.58
+202,Trader_202,Frankfurt,7,122250.93
+203,Trader_203,London,12,391360.13
+204,Trader_204,London,4,141028.99
+205,Trader_205,Singapore,5,412194.09
+206,Trader_206,Frankfurt,5,214750.44
+207,Trader_207,Dubai,6,335437.2
+208,Trader_208,Frankfurt,14,52289.98
+209,Trader_209,Singapore,9,313810.37
+210,Trader_210,Singapore,2,228625.0
+211,Trader_211,Frankfurt,5,295371.19
+212,Trader_212,Singapore,12,88167.03
+213,Trader_213,Frankfurt,3,369752.5
+214,Trader_214,New York,4,432084.55
+215,Trader_215,Frankfurt,10,112286.2
+216,Trader_216,Frankfurt,6,52378.7
+217,Trader_217,Singapore,12,16701.1
+218,Trader_218,Singapore,8,322775.89
+219,Trader_219,London,1,305511.55
+220,Trader_220,London,10,275615.22
+221,Trader_221,New York,14,119813.81
+222,Trader_222,London,8,198498.47
+223,Trader_223,Frankfurt,11,299265.79
+224,Trader_224,Singapore,14,250899.6
+225,Trader_225,London,7,493953.83
+226,Trader_226,London,1,72537.68
+227,Trader_227,New York,2,349096.55
+228,Trader_228,New York,3,205137.79
+229,Trader_229,Frankfurt,1,216958.81
+230,Trader_230,Singapore,14,360210.89
+231,Trader_231,New York,9,347755.89
+232,Trader_232,London,8,495671.72
+233,Trader_233,Singapore,2,68555.17
+234,Trader_234,Singapore,13,56534.28
+235,Trader_235,London,9,363547.71
+236,Trader_236,New York,7,291301.52
+237,Trader_237,London,9,140709.53
+238,Trader_238,Singapore,6,44312.59
+239,Trader_239,Dubai,6,47400.83
+240,Trader_240,Dubai,11,447624.48
+241,Trader_241,Frankfurt,14,99974.33
+242,Trader_242,London,4,165068.92
+243,Trader_243,London,10,117194.92
+244,Trader_244,Frankfurt,10,180723.17
+245,Trader_245,Frankfurt,13,39364.8
+246,Trader_246,Frankfurt,13,261934.6
+247,Trader_247,Singapore,2,38468.22
+248,Trader_248,London,7,401176.47
+249,Trader_249,Singapore,5,120687.48
+250,Trader_250,Frankfurt,11,272305.9
+251,Trader_251,London,6,440639.15
+252,Trader_252,Singapore,2,327184.3
+253,Trader_253,Singapore,5,268814.1
+254,Trader_254,Frankfurt,10,165545.21
+255,Trader_255,London,4,169835.95
+256,Trader_256,Frankfurt,9,336396.04
+257,Trader_257,London,6,497098.98
+258,Trader_258,Dubai,2,332610.4
+259,Trader_259,New York,1,281102.79
+260,Trader_260,New York,5,366672.0
+261,Trader_261,New York,9,235276.78
+262,Trader_262,Frankfurt,6,34770.46
+263,Trader_263,Dubai,10,283336.92
+264,Trader_264,London,12,479024.52
+265,Trader_265,Singapore,7,91774.96
+266,Trader_266,London,5,346552.42
+267,Trader_267,Singapore,10,104462.18
+268,Trader_268,London,6,270234.7
+269,Trader_269,Dubai,5,52854.84
+270,Trader_270,Singapore,11,227933.61
+271,Trader_271,Frankfurt,9,379300.85
+272,Trader_272,London,6,177047.9
+273,Trader_273,London,11,334131.3
+274,Trader_274,Singapore,8,398747.73
+275,Trader_275,Frankfurt,2,463953.02
+276,Trader_276,Frankfurt,12,121147.83
+277,Trader_277,Dubai,13,202661.38
+278,Trader_278,Frankfurt,9,80445.93
+279,Trader_279,Frankfurt,5,496279.33
+280,Trader_280,Frankfurt,7,463865.48
+281,Trader_281,New York,10,272278.78
+282,Trader_282,Dubai,13,421806.48
+283,Trader_283,London,1,262874.2
+284,Trader_284,Singapore,10,313674.92
+285,Trader_285,London,5,49116.59
+286,Trader_286,Dubai,12,378858.86
+287,Trader_287,Singapore,14,68218.17
+288,Trader_288,Dubai,10,413903.48
+289,Trader_289,Frankfurt,14,392103.9
+290,Trader_290,Singapore,2,355828.63
+291,Trader_291,Frankfurt,12,22899.39
+292,Trader_292,London,6,155048.54
+293,Trader_293,London,11,135240.72
+294,Trader_294,Singapore,1,183267.52
+295,Trader_295,Singapore,3,48383.16
+296,Trader_296,Dubai,5,468794.12
+297,Trader_297,Dubai,4,279132.11
+298,Trader_298,Frankfurt,3,156234.53
+299,Trader_299,Singapore,10,201505.85
+300,Trader_300,London,13,226365.26
+301,Trader_301,Dubai,5,302294.2
+302,Trader_302,Dubai,11,260261.32
+303,Trader_303,London,8,460099.03
+304,Trader_304,Dubai,11,250996.92
+305,Trader_305,Frankfurt,4,496118.22
+306,Trader_306,Singapore,1,426455.35
+307,Trader_307,London,11,108212.7
+308,Trader_308,Singapore,7,465644.63
+309,Trader_309,Dubai,8,62601.37
+310,Trader_310,Dubai,3,409637.61
+311,Trader_311,London,6,193408.53
+312,Trader_312,Frankfurt,2,439597.29
+313,Trader_313,New York,7,434688.06
+314,Trader_314,London,8,403933.07
+315,Trader_315,New York,6,396065.07
+316,Trader_316,New York,6,155816.17
+317,Trader_317,Frankfurt,5,45055.05
+318,Trader_318,New York,8,204475.19
+319,Trader_319,New York,1,90894.63
+320,Trader_320,Frankfurt,10,349000.79
+321,Trader_321,New York,4,176319.36
+322,Trader_322,New York,4,487927.05
+323,Trader_323,New York,3,322281.18
+324,Trader_324,London,3,412127.88
+325,Trader_325,London,4,70599.71
+326,Trader_326,London,11,431697.17
+327,Trader_327,Frankfurt,1,461764.81
+328,Trader_328,Dubai,14,246095.65
+329,Trader_329,New York,11,305095.2
+330,Trader_330,New York,13,383580.85
+331,Trader_331,Frankfurt,11,91545.12
+332,Trader_332,New York,2,253770.21
+333,Trader_333,London,9,202338.2
+334,Trader_334,Dubai,10,77455.13
+335,Trader_335,Singapore,2,186929.54
+336,Trader_336,New York,5,38745.29
+337,Trader_337,London,9,17776.89
+338,Trader_338,Singapore,9,71907.31
+339,Trader_339,Dubai,8,481741.98
+340,Trader_340,Singapore,1,277017.12
+341,Trader_341,London,1,483081.97
+342,Trader_342,Singapore,9,219086.45
+343,Trader_343,Frankfurt,13,159348.99
+344,Trader_344,Singapore,11,255540.22
+345,Trader_345,New York,8,222558.29
+346,Trader_346,New York,10,57304.02
+347,Trader_347,Frankfurt,9,322209.03
+348,Trader_348,London,7,111938.9
+349,Trader_349,New York,3,311696.04
+350,Trader_350,Dubai,3,326849.54
+351,Trader_351,New York,2,80252.3
+352,Trader_352,New York,5,35368.07
+353,Trader_353,London,12,391476.99
+354,Trader_354,Singapore,12,232601.21
+355,Trader_355,New York,3,33791.08
+356,Trader_356,Frankfurt,14,497458.83
+357,Trader_357,Singapore,6,33601.38
+358,Trader_358,Dubai,2,349042.44
+359,Trader_359,London,12,491921.07
+360,Trader_360,Dubai,3,123394.15
+361,Trader_361,Singapore,5,75413.44
+362,Trader_362,Singapore,12,65085.55
+363,Trader_363,Singapore,11,155121.2
+364,Trader_364,Dubai,11,55017.68
+365,Trader_365,Singapore,1,347619.86
+366,Trader_366,Dubai,13,35834.44
+367,Trader_367,Singapore,1,257163.95
+368,Trader_368,Frankfurt,10,498364.94
+369,Trader_369,Singapore,9,407915.28
+370,Trader_370,Dubai,7,309533.62
+371,Trader_371,New York,1,156595.54
+372,Trader_372,Singapore,12,313828.44
+373,Trader_373,New York,14,265885.52
+374,Trader_374,Frankfurt,8,215911.28
+375,Trader_375,London,3,69701.64
+376,Trader_376,Frankfurt,8,443869.09
+377,Trader_377,Singapore,5,227643.4
+378,Trader_378,New York,1,101338.14
+379,Trader_379,New York,7,187040.88
+380,Trader_380,Dubai,5,209994.23
+381,Trader_381,New York,6,414631.26
+382,Trader_382,Dubai,6,368139.12
+383,Trader_383,London,8,385805.92
+384,Trader_384,Singapore,9,10460.48
+385,Trader_385,Dubai,2,210996.23
+386,Trader_386,London,9,243265.36
+387,Trader_387,New York,12,14500.18
+388,Trader_388,New York,11,133607.54
+389,Trader_389,London,10,381343.46
+390,Trader_390,New York,9,72869.3
+391,Trader_391,London,13,269978.52
+392,Trader_392,Dubai,10,111524.93
+393,Trader_393,Dubai,10,10999.78
+394,Trader_394,London,7,124394.72
+395,Trader_395,Dubai,1,488057.51
+396,Trader_396,Dubai,7,401760.87
+397,Trader_397,Dubai,10,479990.44
+398,Trader_398,Frankfurt,5,246487.75
+399,Trader_399,Singapore,6,59319.42
+400,Trader_400,New York,10,276239.95
+401,Trader_401,Frankfurt,7,229916.78
+402,Trader_402,Dubai,14,422956.76
+403,Trader_403,London,5,53550.88
+404,Trader_404,Dubai,7,246679.36
+405,Trader_405,Singapore,9,79274.09
+406,Trader_406,Dubai,3,165714.58
+407,Trader_407,London,8,369991.75
+408,Trader_408,Singapore,2,240628.97
+409,Trader_409,Dubai,11,191064.7
+410,Trader_410,Singapore,7,200265.76
+411,Trader_411,New York,13,232426.15
+412,Trader_412,New York,2,393583.19
+413,Trader_413,Dubai,14,446581.92
+414,Trader_414,Singapore,4,477890.67
+415,Trader_415,London,7,394517.18
+416,Trader_416,Dubai,3,161126.41
+417,Trader_417,New York,2,345626.68
+418,Trader_418,New York,11,221613.55
+419,Trader_419,Dubai,10,131061.96
+420,Trader_420,Singapore,7,421231.43
+421,Trader_421,New York,1,24021.04
+422,Trader_422,Singapore,14,451372.19
+423,Trader_423,New York,8,233431.34
+424,Trader_424,New York,3,320414.73
+425,Trader_425,Frankfurt,12,331380.19
+426,Trader_426,New York,12,448083.28
+427,Trader_427,London,13,320151.49
+428,Trader_428,Dubai,2,308897.12
+429,Trader_429,Dubai,3,37992.76
+430,Trader_430,Singapore,5,261611.97
+431,Trader_431,New York,11,79333.66
+432,Trader_432,London,8,370029.72
+433,Trader_433,Singapore,10,258549.85
+434,Trader_434,Frankfurt,7,341712.75
+435,Trader_435,Singapore,7,25628.09
+436,Trader_436,Singapore,12,46972.05
+437,Trader_437,New York,7,359580.08
+438,Trader_438,Frankfurt,8,40681.75
+439,Trader_439,Singapore,1,40272.08
+440,Trader_440,London,4,10993.7
+441,Trader_441,London,13,478468.19
+442,Trader_442,Dubai,6,370066.64
+443,Trader_443,Frankfurt,9,179859.45
+444,Trader_444,Frankfurt,13,151785.11
+445,Trader_445,Dubai,2,178103.1
+446,Trader_446,Singapore,1,388453.5
+447,Trader_447,Frankfurt,13,332378.45
+448,Trader_448,London,10,96671.81
+449,Trader_449,London,12,91184.12
+450,Trader_450,New York,14,53705.85
+451,Trader_451,Frankfurt,2,331849.85
+452,Trader_452,Singapore,7,383364.47
+453,Trader_453,Dubai,3,136197.98
+454,Trader_454,Dubai,10,15367.76
+455,Trader_455,Singapore,2,45674.98
+456,Trader_456,New York,14,484090.72
+457,Trader_457,Dubai,11,151245.16
+458,Trader_458,Frankfurt,7,385765.46
+459,Trader_459,New York,13,314208.47
+460,Trader_460,Frankfurt,13,194060.12
+461,Trader_461,London,2,106815.19
+462,Trader_462,New York,3,65086.28
+463,Trader_463,Dubai,11,309431.42
+464,Trader_464,New York,7,388443.72
+465,Trader_465,New York,14,323732.61
+466,Trader_466,New York,4,267499.56
+467,Trader_467,New York,13,25765.86
+468,Trader_468,Frankfurt,14,484401.94
+469,Trader_469,London,1,400363.52
+470,Trader_470,Singapore,13,149946.91
+471,Trader_471,New York,14,490085.31
+472,Trader_472,Dubai,5,302931.39
+473,Trader_473,New York,12,293299.22
+474,Trader_474,Dubai,9,375296.22
+475,Trader_475,Frankfurt,8,406826.05
+476,Trader_476,Dubai,12,329956.91
+477,Trader_477,Singapore,9,68407.39
+478,Trader_478,London,10,172442.42
+479,Trader_479,Dubai,14,464401.4
+480,Trader_480,Dubai,9,116184.73
+481,Trader_481,London,7,189222.68
+482,Trader_482,Singapore,4,218878.06
+483,Trader_483,New York,5,222505.47
+484,Trader_484,Dubai,1,308405.09
+485,Trader_485,London,14,471822.54
+486,Trader_486,Frankfurt,1,124142.89
+487,Trader_487,London,3,65143.18
+488,Trader_488,Frankfurt,13,102747.89
+489,Trader_489,Singapore,14,444027.83
+490,Trader_490,New York,8,324676.35
+491,Trader_491,London,14,146523.86
+492,Trader_492,Dubai,2,408893.73
+493,Trader_493,Singapore,4,431378.15
+494,Trader_494,London,2,424024.6
+495,Trader_495,Dubai,14,459868.63
+496,Trader_496,London,5,129859.3
+497,Trader_497,Frankfurt,9,378745.75
+498,Trader_498,London,1,232967.05
+499,Trader_499,London,5,421789.28
+500,Trader_500,London,14,365602.89
+501,Trader_501,Singapore,9,389341.49
+502,Trader_502,London,1,329800.11
+503,Trader_503,Dubai,9,92827.24
+504,Trader_504,Frankfurt,8,274788.32
+505,Trader_505,Frankfurt,4,492411.52
+506,Trader_506,London,12,469007.09
+507,Trader_507,Singapore,11,26371.0
+508,Trader_508,Singapore,10,86583.33
+509,Trader_509,Dubai,5,70205.74
+510,Trader_510,London,13,364360.06
+511,Trader_511,Frankfurt,5,409803.74
+512,Trader_512,Singapore,11,110688.13
+513,Trader_513,London,12,255397.08
+514,Trader_514,Singapore,6,421148.0
+515,Trader_515,Singapore,7,367736.76
+516,Trader_516,Frankfurt,8,273407.42
+517,Trader_517,New York,14,297222.11
+518,Trader_518,Dubai,8,256638.47
+519,Trader_519,Dubai,11,152286.48
+520,Trader_520,Frankfurt,14,284685.89
+521,Trader_521,Singapore,13,345998.22
+522,Trader_522,London,2,437294.84
+523,Trader_523,Singapore,9,319964.22
+524,Trader_524,Frankfurt,7,381755.16
+525,Trader_525,Dubai,4,84235.46
+526,Trader_526,Singapore,4,233470.95
+527,Trader_527,Dubai,11,9619.15
+528,Trader_528,London,8,127106.04
+529,Trader_529,Dubai,4,364598.55
+530,Trader_530,Dubai,13,495945.93
+531,Trader_531,New York,6,54093.16
+532,Trader_532,New York,5,203739.69
+533,Trader_533,New York,3,401035.13
+534,Trader_534,Dubai,13,105997.64
+535,Trader_535,Frankfurt,14,279767.05
+536,Trader_536,Dubai,10,367870.29
+537,Trader_537,Frankfurt,11,309912.8
+538,Trader_538,Frankfurt,2,98072.24
+539,Trader_539,New York,9,180915.36
+540,Trader_540,Singapore,10,392976.93
+541,Trader_541,London,9,279342.12
+542,Trader_542,New York,1,7588.66
+543,Trader_543,New York,10,381690.43
+544,Trader_544,Singapore,3,22479.12
+545,Trader_545,London,8,374138.22
+546,Trader_546,Dubai,6,105227.88
+547,Trader_547,Dubai,5,479246.37
+548,Trader_548,New York,5,187130.67
+549,Trader_549,London,6,166831.15
+550,Trader_550,New York,7,78699.58
+551,Trader_551,Frankfurt,1,156274.09
+552,Trader_552,New York,9,438942.13
+553,Trader_553,New York,3,498185.5
+554,Trader_554,Dubai,4,187313.22
+555,Trader_555,Dubai,10,227062.26
+556,Trader_556,Dubai,1,362425.11
+557,Trader_557,Frankfurt,13,443666.91
+558,Trader_558,Dubai,11,298556.95
+559,Trader_559,London,10,198805.22
+560,Trader_560,Singapore,3,209247.81
+561,Trader_561,London,2,349330.98
+562,Trader_562,London,2,6593.04
+563,Trader_563,Dubai,14,311696.72
+564,Trader_564,Singapore,1,180969.04
+565,Trader_565,Singapore,8,398127.68
+566,Trader_566,Singapore,3,51030.37
+567,Trader_567,Frankfurt,3,296160.12
+568,Trader_568,Dubai,6,243081.58
+569,Trader_569,Singapore,13,322951.14
+570,Trader_570,Frankfurt,8,37102.53
+571,Trader_571,New York,13,292091.97
+572,Trader_572,New York,9,282934.87
+573,Trader_573,Frankfurt,9,282526.75
+574,Trader_574,Frankfurt,4,303726.39
+575,Trader_575,Dubai,14,339851.63
+576,Trader_576,Dubai,5,403469.55
+577,Trader_577,New York,2,138561.26
+578,Trader_578,Singapore,11,413399.46
+579,Trader_579,New York,9,251636.56
+580,Trader_580,Singapore,8,43143.85
+581,Trader_581,Singapore,3,33982.71
+582,Trader_582,Dubai,11,170447.97
+583,Trader_583,London,12,393524.0
+584,Trader_584,London,13,355302.06
+585,Trader_585,Frankfurt,9,395364.41
+586,Trader_586,Dubai,3,261048.18
+587,Trader_587,Singapore,9,222898.5
+588,Trader_588,London,2,77989.0
+589,Trader_589,Singapore,12,167455.41
+590,Trader_590,London,10,219839.59
+591,Trader_591,London,9,48857.21
+592,Trader_592,London,8,114202.92
+593,Trader_593,Dubai,9,301121.52
+594,Trader_594,New York,5,369153.24
+595,Trader_595,Singapore,11,499182.02
+596,Trader_596,Dubai,11,466891.1
+597,Trader_597,Dubai,2,323069.77
+598,Trader_598,Dubai,8,213517.79
+599,Trader_599,Dubai,12,319907.8
+600,Trader_600,Dubai,6,393897.55
+601,Trader_601,Frankfurt,8,63576.41
+602,Trader_602,Singapore,11,207902.92
+603,Trader_603,Dubai,5,420702.13
+604,Trader_604,Singapore,10,194997.31
+605,Trader_605,Frankfurt,2,288076.77
+606,Trader_606,Frankfurt,6,295945.83
+607,Trader_607,Singapore,5,96315.75
+608,Trader_608,London,12,184306.54
+609,Trader_609,New York,13,170583.09
+610,Trader_610,London,12,17967.37
+611,Trader_611,London,5,16974.92
+612,Trader_612,London,13,416690.04
+613,Trader_613,Dubai,1,140170.05
+614,Trader_614,Frankfurt,2,261448.99
+615,Trader_615,London,8,152869.16
+616,Trader_616,Frankfurt,13,470636.23
+617,Trader_617,Singapore,14,133351.9
+618,Trader_618,New York,13,217680.12
+619,Trader_619,Singapore,3,437001.47
+620,Trader_620,Singapore,10,421757.12
+621,Trader_621,Dubai,3,97120.2
+622,Trader_622,New York,8,402308.44
+623,Trader_623,Singapore,8,231802.51
+624,Trader_624,Singapore,2,244069.59
+625,Trader_625,New York,8,71072.59
+626,Trader_626,New York,11,44897.75
+627,Trader_627,Singapore,13,365329.96
+628,Trader_628,New York,13,250748.27
+629,Trader_629,Singapore,1,221241.1
+630,Trader_630,Singapore,6,366106.57
+631,Trader_631,Dubai,8,383928.89
+632,Trader_632,London,3,83659.54
+633,Trader_633,Singapore,8,307061.45
+634,Trader_634,Frankfurt,12,72000.27
+635,Trader_635,London,1,376930.67
+636,Trader_636,London,11,330192.8
+637,Trader_637,London,11,478524.24
+638,Trader_638,Dubai,9,39134.22
+639,Trader_639,Singapore,13,33242.09
+640,Trader_640,Dubai,11,144682.6
+641,Trader_641,Singapore,13,134544.31
+642,Trader_642,Dubai,9,127254.51
+643,Trader_643,Dubai,5,453596.02
+644,Trader_644,Frankfurt,10,128525.37
+645,Trader_645,Dubai,4,139615.11
+646,Trader_646,New York,11,380902.14
+647,Trader_647,Frankfurt,6,227621.22
+648,Trader_648,Dubai,12,389471.73
+649,Trader_649,London,7,37356.25
+650,Trader_650,New York,5,246347.74
+651,Trader_651,New York,11,21638.73
+652,Trader_652,New York,13,36013.34
+653,Trader_653,Frankfurt,10,453686.54
+654,Trader_654,Dubai,9,73926.46
+655,Trader_655,Dubai,3,268548.24
+656,Trader_656,London,7,208492.32
+657,Trader_657,London,10,176934.95
+658,Trader_658,New York,10,450417.51
+659,Trader_659,London,11,15802.58
+660,Trader_660,Frankfurt,5,333575.89
+661,Trader_661,Dubai,14,481880.24
+662,Trader_662,New York,7,282283.25
+663,Trader_663,London,2,468727.12
+664,Trader_664,Frankfurt,4,30867.65
+665,Trader_665,Frankfurt,2,212302.69
+666,Trader_666,London,14,133778.11
+667,Trader_667,Dubai,13,366756.38
+668,Trader_668,London,13,490742.06
+669,Trader_669,New York,12,131982.38
+670,Trader_670,London,7,328816.43
+671,Trader_671,Frankfurt,2,103058.33
+672,Trader_672,London,13,284838.48
+673,Trader_673,Dubai,14,234646.58
+674,Trader_674,Singapore,11,486142.64
+675,Trader_675,London,1,306221.0
+676,Trader_676,Dubai,9,178005.65
+677,Trader_677,Dubai,1,61477.41
+678,Trader_678,Frankfurt,8,79867.18
+679,Trader_679,Dubai,2,116531.88
+680,Trader_680,Dubai,12,129228.5
+681,Trader_681,Dubai,8,426054.95
+682,Trader_682,Dubai,13,282805.28
+683,Trader_683,New York,3,264078.5
+684,Trader_684,New York,6,61810.59
+685,Trader_685,Frankfurt,3,430769.15
+686,Trader_686,London,14,362793.08
+687,Trader_687,Dubai,7,38495.84
+688,Trader_688,London,10,355378.37
+689,Trader_689,London,9,274051.42
+690,Trader_690,Frankfurt,2,45454.05
+691,Trader_691,Dubai,12,231858.82
+692,Trader_692,Dubai,12,244924.66
+693,Trader_693,Singapore,14,87058.4
+694,Trader_694,London,5,473120.58
+695,Trader_695,London,13,425737.81
+696,Trader_696,New York,6,336166.06
+697,Trader_697,Singapore,4,233836.3
+698,Trader_698,New York,4,208823.94
+699,Trader_699,New York,4,327231.87
+700,Trader_700,New York,2,274988.78
+701,Trader_701,Frankfurt,4,35825.19
+702,Trader_702,Frankfurt,11,258688.81
+703,Trader_703,New York,1,404169.79
+704,Trader_704,Singapore,12,232323.74
+705,Trader_705,London,6,30718.51
+706,Trader_706,Singapore,1,394207.71
+707,Trader_707,Dubai,10,104675.07
+708,Trader_708,Frankfurt,6,133017.31
+709,Trader_709,London,1,86529.64
+710,Trader_710,London,6,168456.46
+711,Trader_711,Dubai,10,379592.0
+712,Trader_712,Dubai,8,262096.0
+713,Trader_713,New York,11,106416.23
+714,Trader_714,Frankfurt,2,439525.89
+715,Trader_715,Frankfurt,2,440393.02
+716,Trader_716,Singapore,14,435936.32
+717,Trader_717,New York,13,123204.12
+718,Trader_718,New York,12,228363.48
+719,Trader_719,New York,4,492569.88
+720,Trader_720,New York,11,387146.18
+721,Trader_721,Frankfurt,3,18447.87
+722,Trader_722,Frankfurt,4,37276.27
+723,Trader_723,New York,13,234646.03
+724,Trader_724,Singapore,12,455064.0
+725,Trader_725,London,7,271657.39
+726,Trader_726,London,13,251417.19
+727,Trader_727,Singapore,11,57209.48
+728,Trader_728,New York,1,330106.15
+729,Trader_729,Frankfurt,6,411941.06
+730,Trader_730,London,3,193307.9
+731,Trader_731,Dubai,11,388927.87
+732,Trader_732,Dubai,10,482415.94
+733,Trader_733,Singapore,7,105864.4
+734,Trader_734,New York,10,264048.17
+735,Trader_735,London,2,147133.29
+736,Trader_736,New York,14,397462.94
+737,Trader_737,London,2,290908.72
+738,Trader_738,Singapore,13,319118.3
+739,Trader_739,Singapore,4,399967.51
+740,Trader_740,Dubai,1,201005.38
+741,Trader_741,New York,3,457969.58
+742,Trader_742,Dubai,13,268849.29
+743,Trader_743,New York,9,83187.64
+744,Trader_744,Dubai,7,349470.06
+745,Trader_745,Frankfurt,7,397664.37
+746,Trader_746,Frankfurt,13,161797.03
+747,Trader_747,Frankfurt,13,429303.73
+748,Trader_748,Frankfurt,11,453540.91
+749,Trader_749,London,4,142067.72
+750,Trader_750,Frankfurt,2,491843.13
+751,Trader_751,Singapore,14,74652.21
+752,Trader_752,Singapore,4,104997.76
+753,Trader_753,London,6,96191.3
+754,Trader_754,Frankfurt,11,447524.91
+755,Trader_755,Frankfurt,11,328874.81
+756,Trader_756,Frankfurt,3,80291.62
+757,Trader_757,Dubai,1,222960.09
+758,Trader_758,New York,14,309572.52
+759,Trader_759,Dubai,12,46314.72
+760,Trader_760,New York,8,441796.1
+761,Trader_761,Frankfurt,12,402783.75
+762,Trader_762,Frankfurt,13,255077.35
+763,Trader_763,Dubai,5,483727.67
+764,Trader_764,Dubai,5,211791.68
+765,Trader_765,New York,11,492134.61
+766,Trader_766,Singapore,4,335620.4
+767,Trader_767,New York,6,319162.28
+768,Trader_768,Dubai,3,87147.67
+769,Trader_769,Dubai,9,441554.24
+770,Trader_770,London,5,216607.4
+771,Trader_771,Dubai,3,85305.54
+772,Trader_772,London,11,11240.72
+773,Trader_773,Singapore,1,282079.06
+774,Trader_774,New York,10,266062.81
+775,Trader_775,New York,12,361080.04
+776,Trader_776,London,6,445677.74
+777,Trader_777,New York,2,44306.26
+778,Trader_778,Dubai,13,367090.76
+779,Trader_779,Frankfurt,3,97768.91
+780,Trader_780,London,1,429797.64
+781,Trader_781,New York,9,410436.44
+782,Trader_782,London,8,272692.91
+783,Trader_783,London,12,356570.19
+784,Trader_784,Frankfurt,2,160603.31
+785,Trader_785,Dubai,12,238228.11
+786,Trader_786,London,11,411710.26
+787,Trader_787,New York,8,232336.27
+788,Trader_788,Singapore,12,182110.14
+789,Trader_789,London,14,249635.16
+790,Trader_790,London,9,414983.38
+791,Trader_791,Frankfurt,1,170927.98
+792,Trader_792,Dubai,13,91011.99
+793,Trader_793,Singapore,5,357446.94
+794,Trader_794,New York,8,413859.22
+795,Trader_795,Singapore,11,54815.55
+796,Trader_796,New York,14,123737.69
+797,Trader_797,Dubai,2,75276.13
+798,Trader_798,New York,4,177231.0
+799,Trader_799,Frankfurt,7,227923.73
+800,Trader_800,Frankfurt,3,375669.04
+801,Trader_801,Frankfurt,13,327318.05
+802,Trader_802,Frankfurt,12,312359.64
+803,Trader_803,Singapore,5,179425.6
+804,Trader_804,Dubai,8,421516.54
+805,Trader_805,New York,12,238287.15
+806,Trader_806,New York,10,489656.94
+807,Trader_807,Frankfurt,3,318900.36
+808,Trader_808,Frankfurt,4,67501.05
+809,Trader_809,London,14,339707.89
+810,Trader_810,Dubai,9,165926.49
+811,Trader_811,Singapore,14,344731.96
+812,Trader_812,New York,14,39472.37
+813,Trader_813,London,7,91566.31
+814,Trader_814,London,1,428589.94
+815,Trader_815,New York,14,117453.88
+816,Trader_816,Singapore,12,419335.36
+817,Trader_817,London,4,143241.66
+818,Trader_818,London,4,323226.55
+819,Trader_819,Dubai,9,348604.53
+820,Trader_820,Singapore,6,258764.1
+821,Trader_821,London,9,156128.78
+822,Trader_822,Singapore,12,110258.97
+823,Trader_823,New York,6,21428.73
+824,Trader_824,Frankfurt,6,155453.47
+825,Trader_825,London,5,328315.58
+826,Trader_826,Dubai,5,469460.89
+827,Trader_827,New York,2,436246.22
+828,Trader_828,Singapore,8,384202.06
+829,Trader_829,New York,8,395281.43
+830,Trader_830,London,11,334167.53
+831,Trader_831,Singapore,13,133841.99
+832,Trader_832,Frankfurt,1,454061.54
+833,Trader_833,New York,8,337012.49
+834,Trader_834,London,5,282418.11
+835,Trader_835,Dubai,2,59939.79
+836,Trader_836,Singapore,14,226292.49
+837,Trader_837,New York,2,232877.34
+838,Trader_838,New York,14,432958.99
+839,Trader_839,Frankfurt,6,275590.87
+840,Trader_840,Frankfurt,11,193298.27
+841,Trader_841,Dubai,13,488516.16
+842,Trader_842,Dubai,9,59806.69
+843,Trader_843,London,1,214161.47
+844,Trader_844,London,12,25802.21
+845,Trader_845,Dubai,6,371252.54
+846,Trader_846,Dubai,9,459447.89
+847,Trader_847,Singapore,8,143618.48
+848,Trader_848,Frankfurt,11,429879.13
+849,Trader_849,London,6,149648.02
+850,Trader_850,Frankfurt,3,455831.23
+851,Trader_851,Frankfurt,8,378211.14
+852,Trader_852,Dubai,9,403428.85
+853,Trader_853,Singapore,1,13913.25
+854,Trader_854,New York,12,481591.13
+855,Trader_855,Singapore,9,364702.14
+856,Trader_856,Singapore,14,155851.79
+857,Trader_857,Frankfurt,6,415550.36
+858,Trader_858,Singapore,6,144352.99
+859,Trader_859,London,12,437013.15
+860,Trader_860,Frankfurt,4,60727.29
+861,Trader_861,London,1,353324.56
+862,Trader_862,New York,10,272645.75
+863,Trader_863,Frankfurt,8,52784.56
+864,Trader_864,New York,2,124737.44
+865,Trader_865,Frankfurt,12,11140.0
+866,Trader_866,Dubai,1,237040.14
+867,Trader_867,Singapore,2,154126.3
+868,Trader_868,Dubai,1,301186.95
+869,Trader_869,New York,1,152132.71
+870,Trader_870,Singapore,9,153459.96
+871,Trader_871,Frankfurt,13,372880.63
+872,Trader_872,Singapore,14,28830.7
+873,Trader_873,London,1,451933.02
+874,Trader_874,Singapore,13,426870.62
+875,Trader_875,London,4,335563.32
+876,Trader_876,Singapore,10,298644.68
+877,Trader_877,London,6,446689.74
+878,Trader_878,New York,7,96738.44
+879,Trader_879,Dubai,2,44089.74
+880,Trader_880,Frankfurt,6,123557.53
+881,Trader_881,Singapore,7,398316.25
+882,Trader_882,Dubai,10,22161.78
+883,Trader_883,Frankfurt,14,293489.38
+884,Trader_884,Frankfurt,10,497741.57
+885,Trader_885,London,2,428569.57
+886,Trader_886,New York,2,263115.62
+887,Trader_887,New York,10,36502.25
+888,Trader_888,Dubai,7,416529.89
+889,Trader_889,New York,12,301494.36
+890,Trader_890,Singapore,1,61891.83
+891,Trader_891,New York,8,51459.36
+892,Trader_892,Dubai,11,455265.28
+893,Trader_893,New York,13,336254.13
+894,Trader_894,Singapore,3,415496.97
+895,Trader_895,London,11,440094.56
+896,Trader_896,Dubai,6,288027.31
+897,Trader_897,London,9,261135.94
+898,Trader_898,London,6,218061.57
+899,Trader_899,London,9,161888.56
+900,Trader_900,Frankfurt,7,220125.0
+901,Trader_901,Frankfurt,9,388070.43
+902,Trader_902,London,2,302952.1
+903,Trader_903,Dubai,12,446799.03
+904,Trader_904,Singapore,8,224473.11
+905,Trader_905,Singapore,8,305509.34
+906,Trader_906,New York,2,317497.24
+907,Trader_907,Dubai,12,297890.1
+908,Trader_908,Frankfurt,14,352803.72
+909,Trader_909,London,4,122529.57
+910,Trader_910,New York,14,258620.07
+911,Trader_911,Singapore,11,56591.28
+912,Trader_912,Frankfurt,7,195333.11
+913,Trader_913,Frankfurt,11,246395.2
+914,Trader_914,London,4,327851.01
+915,Trader_915,Singapore,4,475512.87
+916,Trader_916,Dubai,6,302322.28
+917,Trader_917,Frankfurt,10,373078.99
+918,Trader_918,London,6,255601.7
+919,Trader_919,Dubai,10,318881.5
+920,Trader_920,Singapore,3,40111.45
+921,Trader_921,Frankfurt,9,130923.83
+922,Trader_922,Dubai,12,184117.28
+923,Trader_923,Dubai,10,238884.21
+924,Trader_924,Dubai,14,27596.13
+925,Trader_925,Frankfurt,11,74311.93
+926,Trader_926,Frankfurt,2,142023.08
+927,Trader_927,New York,6,485908.68
+928,Trader_928,Singapore,12,169016.77
+929,Trader_929,London,7,243610.32
+930,Trader_930,Dubai,12,102068.37
+931,Trader_931,New York,13,307336.14
+932,Trader_932,London,9,143938.19
+933,Trader_933,New York,13,107461.33
+934,Trader_934,Frankfurt,3,260703.45
+935,Trader_935,Dubai,10,7725.37
+936,Trader_936,London,3,8793.7
+937,Trader_937,London,7,113439.06
+938,Trader_938,London,14,23177.07
+939,Trader_939,London,4,58472.75
+940,Trader_940,London,13,172736.02
+941,Trader_941,New York,8,402279.91
+942,Trader_942,Dubai,13,288164.08
+943,Trader_943,Frankfurt,7,258770.52
+944,Trader_944,Frankfurt,5,150276.97
+945,Trader_945,Frankfurt,7,466218.09
+946,Trader_946,Frankfurt,3,201522.45
+947,Trader_947,New York,12,48110.92
+948,Trader_948,Singapore,2,310447.93
+949,Trader_949,Dubai,6,61350.0
+950,Trader_950,London,2,175885.46
+951,Trader_951,Singapore,3,256168.91
+952,Trader_952,Frankfurt,6,437740.15
+953,Trader_953,Singapore,5,249305.56
+954,Trader_954,Dubai,8,352618.09
+955,Trader_955,London,9,496444.34
+956,Trader_956,London,11,70087.11
+957,Trader_957,Dubai,3,140992.11
+958,Trader_958,Dubai,12,200315.16
+959,Trader_959,Frankfurt,10,213804.95
+960,Trader_960,London,3,208455.43
+961,Trader_961,Singapore,3,454267.45
+962,Trader_962,New York,13,358446.16
+963,Trader_963,New York,13,305913.08
+964,Trader_964,Dubai,6,158139.5
+965,Trader_965,Frankfurt,1,412776.24
+966,Trader_966,New York,7,477754.95
+967,Trader_967,London,12,411493.15
+968,Trader_968,Dubai,1,5774.73
+969,Trader_969,Singapore,14,320018.68
+970,Trader_970,Dubai,5,30312.01
+971,Trader_971,Singapore,10,132515.57
+972,Trader_972,Dubai,13,34464.73
+973,Trader_973,Dubai,8,303878.75
+974,Trader_974,Dubai,4,344862.01
+975,Trader_975,Singapore,5,61671.38
+976,Trader_976,Singapore,4,195000.25
+977,Trader_977,Dubai,12,230837.07
+978,Trader_978,New York,12,187681.25
+979,Trader_979,Frankfurt,14,64907.38
+980,Trader_980,Frankfurt,4,212379.16
+981,Trader_981,Frankfurt,12,376833.13
+982,Trader_982,Singapore,8,40148.79
+983,Trader_983,Singapore,2,44689.11
+984,Trader_984,New York,1,180611.79
+985,Trader_985,Frankfurt,3,471154.23
+986,Trader_986,Frankfurt,9,335943.46
+987,Trader_987,Dubai,4,340941.63
+988,Trader_988,Singapore,10,184150.4
+989,Trader_989,Frankfurt,5,298862.09
+990,Trader_990,New York,2,10014.94
+991,Trader_991,New York,4,319867.54
+992,Trader_992,Frankfurt,2,457077.04
+993,Trader_993,Singapore,2,308223.87
+994,Trader_994,New York,4,437480.8
+995,Trader_995,Dubai,6,363366.66
+996,Trader_996,New York,7,64676.42
+997,Trader_997,London,10,451714.39
+998,Trader_998,London,3,37889.7
+999,Trader_999,Singapore,3,269313.9
+1000,Trader_1000,Frankfurt,10,75357.88

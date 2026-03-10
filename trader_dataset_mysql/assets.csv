@@ -1,0 +1,11 @@
+asset_id,symbol,market
+1,AAPL,Stock
+2,GOOG,Stock
+3,TSLA,Stock
+4,AMZN,Stock
+5,MSFT,Stock
+6,BTC,Crypto
+7,ETH,Crypto
+8,EURUSD,Forex
+9,GBPUSD,Forex
+10,GOLD,Commodity
