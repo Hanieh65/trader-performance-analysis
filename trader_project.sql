@@ -1,7 +1,7 @@
 CREATE DATABASE trader_project;
 USE trader_project;
 -- top_10_traders_by_net_pnl.csv
-SELECT tr.name, tr.trader_id, SUM(account_balance) AS total_balance, ROUND (sum(
+SELECT tr.name, tr.trader_id, tr.account_balance AS total_balance, ROUND (sum(
                       CASE 
                             WHEN (t.trade_type)= "SELL" THEN (t.quantity*t.price)
 							WHEN (t.trade_type) = "BUY" THEN -(t.quantity * t.price)
@@ -10,7 +10,7 @@ SELECT tr.name, tr.trader_id, SUM(account_balance) AS total_balance, ROUND (sum(
  FROM traders tr
  INNER JOIN trades t
  ON tr.trader_id = t.trader_id 
- GROUP BY tr.trader_id , tr.name 
+ GROUP BY tr.trader_id , tr.name ,total_balance
  ORDER BY net_pnl  DESC
  LIMIT 10;
  
